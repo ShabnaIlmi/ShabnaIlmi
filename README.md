@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Fathima Shabna Ilmi
 
-🎓 I'm a **2nd-year undergraduate student** pursuing a **BSc (Hons) in Data Science** at IIT in partnership with **Robert Gordon University**.  
+🎓 I'm a **final-year undergraduate student** pursuing a **BSc (Hons) in Data Science** at IIT in partnership with **Robert Gordon University**.  
 
 📌 I also have a **Business background**, currently pursuing a **BSc (Hons) in Business Administration** at the **University of Colombo**.  
 
